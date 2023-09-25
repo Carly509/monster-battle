@@ -13,6 +13,7 @@ This project is built using the React ecosystem libraries; it is good you know t
 - [React testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 The app is a battle of monsters, where we have many different monsters with multiple stats like attack and defense, and we can let them fight each other.
+A local API configured inside the project, this will serve all the endpoints necessary for the proper operation of the app.
 
 ## Project Set Up
 
